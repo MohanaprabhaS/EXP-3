@@ -42,6 +42,7 @@ switch2.
 
 Direct and Cross connection:
 
+
 <img width="701" height="986" alt="image" src="https://github.com/user-attachments/assets/f504c197-67e2-4a09-b68c-7a92418cb255" />
 
 
@@ -56,11 +57,15 @@ Direct and Cross connection:
 
 CIRCUIT DIAGRAM: 
 
+
 Direct connection:
 
+
 <img width="1134" height="788" alt="Screenshot 2025-10-09 102549" src="https://github.com/user-attachments/assets/ab2162de-35c4-4442-815d-72ac731a8015" />
+
 	
 Cross connection: 
+
 
 <img width="978" height="701" alt="Screenshot 2025-10-09 102814" src="https://github.com/user-attachments/assets/b74dbe56-96ba-4b57-9802-936330e327f5" />
 
