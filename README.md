@@ -1,7 +1,7 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
-
- 
+EXPT NO: 3				STAIR CASE WIRING         
+## Name: Mohanaprabha S
+## Register no: 212224040197 
 AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
@@ -39,12 +39,31 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
 
-Tabulation:2
+Direct and Cross connection:
+
+<img width="701" height="986" alt="image" src="https://github.com/user-attachments/assets/f504c197-67e2-4a09-b68c-7a92418cb255" />
+
+
+<img width="696" height="966" alt="image" src="https://github.com/user-attachments/assets/d563915e-9bf7-48a4-91bd-f5105970ccff" />
+
+
+<img width="694" height="985" alt="image" src="https://github.com/user-attachments/assets/e770e9d7-9b5e-459e-b6de-bc55b5229366" />
+
+
+<img width="692" height="940" alt="image" src="https://github.com/user-attachments/assets/af4d3d13-a07f-4e31-9b8b-affd3523f7ff" />
+
+
+CIRCUIT DIAGRAM: 
+
+Direct connection:
+
+<img width="1134" height="788" alt="Screenshot 2025-10-09 102549" src="https://github.com/user-attachments/assets/ab2162de-35c4-4442-815d-72ac731a8015" />
+	
+Cross connection: 
+
+<img width="978" height="701" alt="Screenshot 2025-10-09 102814" src="https://github.com/user-attachments/assets/b74dbe56-96ba-4b57-9802-936330e327f5" />
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
